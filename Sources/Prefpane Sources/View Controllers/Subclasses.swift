@@ -292,7 +292,7 @@ class HyperlinkTextField: NSTextField {
 	override func awakeFromNib() {
 		super.awakeFromNib()
 		let attributes: [NSAttributedString.Key:AnyObject] = [
-			NSAttributedString.Key.foregroundColor: NSColor.blue,
+			NSAttributedString.Key.foregroundColor: NSColor.systemBlue,
 			NSAttributedString.Key.backgroundColor: NSColor.clear,
 			NSAttributedString.Key.underlineStyle: NSUnderlineStyle.single.rawValue as AnyObject
 		]

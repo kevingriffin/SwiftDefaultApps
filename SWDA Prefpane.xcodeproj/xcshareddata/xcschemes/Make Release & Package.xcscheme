@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EBD61FD81E47EC3C00549EE8"
-               BuildableName = "SwiftDefaultApps.prefPane"
+               BuildableName = "SwiftDefaultApps.prefpane"
                BlueprintName = "SwiftDefaultApps"
                ReferencedContainer = "container:SWDA Prefpane.xcodeproj">
             </BuildableReference>
@@ -51,7 +51,7 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "EBD61FD81E47EC3C00549EE8"
-                     BuildableName = "SwiftDefaultApps.prefPane"
+                     BuildableName = "SwiftDefaultApps.prefpane"
                      BlueprintName = "SwiftDefaultApps"
                      ReferencedContainer = "container:SWDA Prefpane.xcodeproj">
                   </BuildableReference>
@@ -59,19 +59,17 @@
             </ActionContent>
          </ExecutionAction>
       </PreActions>
-      <Testables>
-      </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EBD61FD81E47EC3C00549EE8"
-            BuildableName = "SwiftDefaultApps.prefPane"
+            BuildableName = "SwiftDefaultApps.prefpane"
             BlueprintName = "SwiftDefaultApps"
             ReferencedContainer = "container:SWDA Prefpane.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
+      <Testables>
+      </Testables>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Release"
@@ -93,7 +91,7 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "EBD61FD81E47EC3C00549EE8"
-                     BuildableName = "SwiftDefaultApps.prefPane"
+                     BuildableName = "SwiftDefaultApps.prefpane"
                      BlueprintName = "SwiftDefaultApps"
                      ReferencedContainer = "container:SWDA Prefpane.xcodeproj">
                   </BuildableReference>
@@ -110,7 +108,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EBD61FD81E47EC3C00549EE8"
-            BuildableName = "SwiftDefaultApps.prefPane"
+            BuildableName = "SwiftDefaultApps.prefpane"
             BlueprintName = "SwiftDefaultApps"
             ReferencedContainer = "container:SWDA Prefpane.xcodeproj">
          </BuildableReference>
@@ -122,8 +120,6 @@
             isEnabled = "YES">
          </EnvironmentVariable>
       </EnvironmentVariables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -141,7 +137,7 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "EBD61FD81E47EC3C00549EE8"
-                     BuildableName = "SwiftDefaultApps.prefPane"
+                     BuildableName = "SwiftDefaultApps.prefpane"
                      BlueprintName = "SwiftDefaultApps"
                      ReferencedContainer = "container:SWDA Prefpane.xcodeproj">
                   </BuildableReference>
@@ -158,7 +154,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EBD61FD81E47EC3C00549EE8"
-            BuildableName = "SwiftDefaultApps.prefPane"
+            BuildableName = "SwiftDefaultApps.prefpane"
             BlueprintName = "SwiftDefaultApps"
             ReferencedContainer = "container:SWDA Prefpane.xcodeproj">
          </BuildableReference>
